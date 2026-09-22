@@ -68,11 +68,11 @@ body{
 }
 
 .logo{
-  display:flex;
-  flex-direction:column;
-  color:#fff;
-  text-decoration:none;
-  line-height:1;
+  height:36px;
+  width:36px;
+  object-fit:contain;
+  flex-shrink:0;
+  display:block;
 }
 
 .logo-main{
