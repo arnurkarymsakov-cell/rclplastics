@@ -173,6 +173,7 @@ body{
   color:#fff;
   position:relative;
   overflow:hidden;
+  margin-bottom:-1px;
 }
 
 .hero-bg{
